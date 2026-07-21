@@ -18,7 +18,10 @@ import numpy as np
 import plotly.graph_objects as go
 from datetime import timedelta
 
-from utils import data_utils, feature_engineering, models, sql_utils
+import data_utils
+import feature_engineering
+import models
+import sql_utils
 
 # ---------------------------------------------------------------------------
 # Page configuration
